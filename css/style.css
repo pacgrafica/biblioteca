@@ -31,12 +31,12 @@ body{
     height: 80vh;
 }
 .dmgv6{
-    background-color: chartreuse;
+    background-color: chartreuse;git 
     border: 2px solid darkgreen;
     height: 80vh;
 }
 .dmgv7{
-    background-color: chartreuse;
+    background-color: cyan;
     border: 2px solid darkgreen;
     height: 80vh;
 }
@@ -76,7 +76,14 @@ body{
     height: 80vh;
 }
 .dmgv15{
+<<<<<<< HEAD
+
+
+
+    background-color: chartreuse;
+=======
     background-color: rgba(17, 0, 255, 0.712);
+>>>>>>> 93d272328568bc92b09ad71f44d2478eccf0f8bd
     border: 2px solid darkgreen;
     height: 80vh;
 }
